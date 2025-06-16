@@ -12,4 +12,4 @@ This app allows users to set reminders for tasks using notifications.
 ## Built With
 - Java
 - Android Studio
-- SQLite (if used)
+- SQLite 
